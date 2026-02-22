@@ -5,4 +5,8 @@ pandas
 numpy
 scikit-learn
 tensorboard
+<<<<<<< HEAD
 matplotlib
+=======
+matplotlib
+>>>>>>> c4dbab1bd83a01bf64a22e510935fcb1a8ea2338
